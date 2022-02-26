@@ -78,3 +78,5 @@ var gitCommitCode = 'git commit -am'
 var gitPushDefinition = 'git push is used to "push" your code including all commit comments and code changes to GitHub'
 
 var gitPushCode = 'git push origin main'
+
+//adding a comment so i can push, completed before the git init
