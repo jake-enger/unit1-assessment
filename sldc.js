@@ -31,3 +31,5 @@ const design = "Desiging the code, taking into account the original view and sco
 const implementation = "The process of adopting and integrating a software application into a business workflow."
 const testingAndIntegration = "Testing the code to make sure it works and there are minimal to no bugs, and also putting the code into everyday use."
 const maintain = "Maintaining and updating the code so it doesn't break in the future"
+
+//This comment serves the same purpose as my gitInfo comment
