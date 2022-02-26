@@ -21,3 +21,6 @@ Object.defineProperty(string.prototype, 'charLength', {
 });
 
 console.log('A\uD87E\uDC04Z'.charLength);})
+
+//I can't seem to figure ths one out completely, I have an input that gets allowed 
+//But I can't get it to actually accept the input, I get a 'throw error'
